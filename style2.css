@@ -578,4 +578,31 @@ color:#2d314b;
 	font-size:20px;
 	font-weight:bold;
 }
+.parallax {
+  
+    background-image: url("zsafe.jpg");
+    min-height: 1000px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax2 {
+  
+    background-image: url("zsafe.jpg");
+    min-height: 1000px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.dis{
+			font-size:28px;
+		font-weight:bold;
+		text-align:center;
+		height:200px;
+		width:100%;
+		margin-bottom:0;
+		background-color:#d3f8de;
+}
 
