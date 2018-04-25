@@ -24,7 +24,19 @@
 	
 }
 
+.red{
+	    float: right;
+    padding: 0px;
+    border: none;
+   
+    margin-right: 0px;
+    font-size: 17px;
+	border-left: 1px solid gray;
 
+	border-right: 1px solid gray;
+	height:60px;
+}
+	
 .headBar input {
     float: right;
     padding: 0px;
